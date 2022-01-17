@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rohitroy-github
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Development(mostly Web), C++, Java 
 - 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on React 
 - 📫 Reach me at my email - rohitdevops.roy@gmail.com
