@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohit Roy
 - 👀 I’m interested in Development(mostly Web), C++, Java, Blockchain 
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning React, Blockchain 
 - 💞️ I’m looking to collaborate on React 
 - 📫 Reach me @ rohitdevops.roy@gmail.com
 <!---
