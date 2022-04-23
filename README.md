@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Rohit Roy
-- 👀 I’m interested in Development, C++, Java, Blockchain 
-- 🌱 I’m currently learning React, Blockchain 
+- 👀 I’m interested in Development & Blockchain
+- 🌱 I’m currently learning ReactJS and Blockchain
+- 👀 My skills are > | C++ | Java | C | Python | Solidity | JS | HTML | CSS | React | Node |  
 - 💞️ I’m looking to collaborate on React 
 - 📫 Reach me @ rohitdevops.roy@gmail.com
 <!---
