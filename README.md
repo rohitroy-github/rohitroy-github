@@ -12,7 +12,7 @@ I'm an CS engineer in making. I love coding, development and currently I'm putti
 * 🤝  I'm open to collaborating on Web Development Projects | Open Source | Hackathons
 * ⚡  Hobbies = Cycling | Photography | Cooking | Coding | Travelling
 
-<h3 align="center">Tech Skills</h3>
+<h3 align="center">Technical Skills</h3>
 
 <p align="center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
