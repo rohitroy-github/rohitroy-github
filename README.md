@@ -7,7 +7,7 @@ Full Stack Developer | Blockchain Enthusiast
 I'm an CS engineer in making. I love coding, development and currently I'm putting my hands into Blockchain as well.
 
 * 🌍  I'm based in India !
-* ✉️  You can contact me at [rohitdevops.roy@gmail.com](mailto:rohitdevops.roy@gmail.com)
+* ✉️  You can contact me at [rhtry.tech@gmail.com](mailto:rhtry.tech@gmail.com)
 * 🧠  I'm learning React | Solidity | Node JS
 * 🤝  I'm open to collaborating on Web Development Projects | Open Source | Hackathons
 * ⚡  Hobbies = Cycling | Photography | Cooking | Coding | Travelling
