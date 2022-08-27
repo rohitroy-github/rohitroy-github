@@ -4,7 +4,7 @@ Hi 👋 I'm Rohit Roy !
 Full Stack Developer | Blockchain Enthusiast 
 ---------------------------------
 
-I'm an CS engineer in making. I love coding, development and currently I'm putting my hands into Blockchain as well.
+I'm an CS engineer in making. I love coding, development and currently I'm putting my head into Blockchain as well.
 
 * 🌍  I'm based in India !
 * ✉️  You can contact me at [rhtry.tech@gmail.com](mailto:rhtry.tech@gmail.com)
