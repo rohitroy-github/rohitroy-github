@@ -8,7 +8,7 @@ I'm an CS engineer in making. I love coding, development and currently I'm putti
 
 * 🌍  I'm based in India !
 * ✉️  You can contact me at [rhtry.tech@gmail.com](mailto:rhtry.tech@gmail.com)
-* 🧠  I'm learning React | Solidity | Node JS
+* 🧠  I'm currently learning React | Solidity | Node JS
 * 🤝  I'm open to collaborating on Web Development Projects | Open Source | Hackathons
 * ⚡  Hobbies = Cycling | Photography | Cooking | Coding | Travelling
 
