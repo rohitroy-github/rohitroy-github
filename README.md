@@ -1,7 +1,7 @@
 Hi 👋 I'm Rohit Roy ! 
 ==========================
 
-Full Stack Developer | Blockchain Enthusiast 
+CSE'24 🎓 | MERN stack developer ⚒ | Learning & building on Ethereum ⛓ | Hackathons 👨🏻‍💻 | Community 🍻 
 ---------------------------------
 
 I'm an Software Engineer in making. I love coding, development and currently I'm also trying out Blockchain and Web3.
