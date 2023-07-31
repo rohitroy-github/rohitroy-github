@@ -8,7 +8,7 @@ I'm an Software Engineer in making. I love coding, development and currently I'm
 
 * 🌍  I'm based in India !
 * ✉️  You can contact me at [rhtry.tech@gmail.com](mailto:rhtry.tech@gmail.com)
-* 🧠  I'm currently learning React JS | Solidity | Node JS
+* 🧠  I'm currently working with Node JS | React JS | Solidity | Ethers JS
 * 🤝  I'm open to collaborating on Web Development Projects | Open Source | Hackathons
 * ⚡  Hobbies = Cycling | Photography | Cooking | Coding | Travelling
 
