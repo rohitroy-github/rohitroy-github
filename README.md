@@ -41,6 +41,10 @@ I'm an Software Engineer in making. I love coding, development and currently I'm
 <p align="center"> <a href="https://www.facebook.com/rohitroy.fb/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/rohitroy-github" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/rohit_roy_x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/roy-rohit/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/rohitroy_R/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 <!---### Badges--->
+<h3 align="center">Hoplin Badges</h3>
+
+[![An image of @rht_holopin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rht_holopin)](https://holopin.io/@rht_holopin)
+
 
 <h3 align="center">Github Status</h3>
 
