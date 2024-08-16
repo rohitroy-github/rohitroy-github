@@ -53,15 +53,12 @@ I'm an Software Engineer in making. I love coding, development and currently I'm
 </p>
 
 <p align="center"> 
-<a href="http://www.github.com/rohitroy-github"><img src="https://activity-graph.herokuapp.com/graph?username=rohitroy-github&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/rohitroy-github"><img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitroy-github&theme=github-compact" alt="GitHub Commits Graph" /></a>
 </p>
 
-<p align="left">
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitroy-github&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </p>
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/rohitroy.bmac/"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 <!-- Document/ Style source : https://www.profileme.dev/ -->
