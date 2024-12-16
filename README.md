@@ -4,7 +4,7 @@ Hi 👋 I'm Rohit Roy !
 Software Developer • MERN ⚒ | Leveraging • Ethereum 🧊 | Mentor • GSSOC'24 | 5x • Hackathons 🏆 | Contributor • Community 🍻
 ---------------------------------
 
-I'm an Software Engineer in making. I love coding, development and currently I'm also trying out Blockchain and Web3.
+I'm an SDE working at Accenture currently. I love developing software, learning new technology and currently I'm also wokring with Blockchain and Web3.
 
 * 🌍  I'm based in India !
 * ✉️  You can contact me at [rhtry.tech@gmail.com](mailto:rhtry.tech@gmail.com)
